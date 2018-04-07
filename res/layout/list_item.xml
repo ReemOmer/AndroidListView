@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--  Single List Item Design -->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/label"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="10dip"
+    android:textSize="16dip"
+    android:textStyle="bold"
+    android:gravity="center"
+    android:typeface="serif"
+    android:background="@drawable/test3"
+    android:maxHeight="50px"
+    android:textColor="#000099">
+</TextView>
